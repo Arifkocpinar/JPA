@@ -12,7 +12,7 @@ public class Department {
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private Long id;
 	private String deptName;
-	
+	//deneme
 	
 	public Long getId() {
 		return id;
